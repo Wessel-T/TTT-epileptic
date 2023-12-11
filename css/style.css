@@ -7,16 +7,44 @@
     animation-duration:2s;
     animation-iteration-count:infinite;
 }
-
-img{
-    width: 460px;
-    height:300px;
+/* 
+.metal{
+    width: 10px;
+    height:10px;
     position: absolute;
     left:90px;
     top:130px;
 
+} */
+
+
+.frog{
+    width: 100px;
+    height:200px;
+    position: absolute;
+    left:160px;
+    top:130px;
+
 }
 
+.lizard{
+    width: 400px;
+    height:600px;
+    position: absolute;
+    left:160px;
+    top:700px;
+
+}
+
+
+.pickle-rick{
+    width: 400px;
+    height:600px;
+    position: absolute;
+    left:1360px;
+    top:400px;
+
+}
 
 :root {}
 
