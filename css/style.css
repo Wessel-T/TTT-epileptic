@@ -42,7 +42,18 @@
     height:600px;
     position: absolute;
     left:1360px;
-    top:400px;
+    top:50px;
+
+}
+
+
+
+.spongebok{
+    width: 500px;
+    height:300px;
+    position: absolute;
+    left:1320px;
+    top:700px;
 
 }
 
